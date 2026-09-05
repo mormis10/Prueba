@@ -1,0 +1,9 @@
+{
+  "name": "git-merge-practice",
+  "version": "1.0.0",
+  "description": "Proyecto para practicar conflictos de merge",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
