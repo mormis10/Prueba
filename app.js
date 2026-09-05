@@ -6,10 +6,10 @@ function startApplication() {
     console.log(`Server running on port ${config.port}`);
 
     const USER2 = getUser(1);
-    const prueba = 999; 
+    const prueba = 94545459; 
 
     console.log('User:', USER2);
-    console.log("Esto es compltkfm{kl{rgrpe+gm+ñwlmg");
+    console.log("Orfdmslñkfmi");
     console.log(prueba);
 }
 
