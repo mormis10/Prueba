@@ -5,11 +5,11 @@ const { getProduct } = require('./products');
 function startApplication() {
     console.log(`Server running on port ${config.port}`);
 
-    const user = getUser(1);
+    const USER2 = getUser(1);
     const product = getProduct(1);
 
-    console.log('User:', user);
-    console.log('Product:', product);
+    console.log('User:', USER2);
+    console.log("Ven bailalo");
 }
 
 startApplication();
